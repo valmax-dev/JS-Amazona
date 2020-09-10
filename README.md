@@ -12,7 +12,7 @@ A fully-function website like amazon using Vanilla JavaScript, HTML5, and CSS3 i
 - Nodejs: Web API, Body Parser, File Upload, JWT
 - MongoDB: Database Modeling, Mongoose, Filter, Aggregation
 - Development: ESLint, Babel, Git, Github, VS Code
-- Deployment: Heroku, MongoDB Atlas, Amazon S3 Storage
+- Deployment: Heroku, MongoDB Atlas
 
 ## Preview
 
