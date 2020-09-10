@@ -22,7 +22,7 @@ A fully-function website like amazon using Vanilla JavaScript, HTML5, and CSS3 i
 
 https://max-jsamazona.herokuapp.com/#/
 
-Admin Login:
+**Admin Login:**
 admin@example.com<br />
-password:
+**Password:**
 jsamazona
